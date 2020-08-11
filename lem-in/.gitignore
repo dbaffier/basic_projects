@@ -1,0 +1,6 @@
+*.swp
+src/*.
+src/*.
+*dSYM
+lem_in
+objs

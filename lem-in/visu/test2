@@ -1,0 +1,10 @@
+8
+room1 1 1
+room2 2 2
+aaaa0 3 3
+room3 4 4
+room4 5 5
+room5 6 6
+room2-aaaa0
+room4-room5
+room2-room5
